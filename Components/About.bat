@@ -4,7 +4,7 @@ cls
 echo  ===================================== About =======================================
 echo.
 echo OpenDisc Generator %ODG_VERSION%
-echo Copyright (c) 2015 Junde Yi. All Rights Reserved.
+echo Copyright (c) 2015 Junde Yi.
 echo.
 echo This program is licensed under WTFPL.
 echo  -----------------------------------------------------------------------------------
